@@ -17,7 +17,7 @@
     "@types/ethereumjs-abi": "^0.6.3",
     "ethereumjs-abi": "^0.6.8",
     "bn.js": "^5.1.1",
-    "grpc": "^1.24.2",
+    "grpc": "^1.24.9",
     "sha3": "^2.1.1",
     "solc": "^0.6.1",
     "ts-node": "^8.6.2",
